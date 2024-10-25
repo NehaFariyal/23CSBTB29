@@ -8,3 +8,4 @@ https://github.com/NehaFariyal/23CSBTB29/blob/main/Untitled0.ipynb
 6.https://github.com/NehaFariyal/23CSBTB29/blob/main/Assigment_03.ipynb
 7.https://github.com/NehaFariyal/23CSBTB29/blob/main/Assignment4.ipynb
 https://github.com/NehaFariyal/23CSBTB29/blob/main/Assignment06.ipynb
+https://github.com/NehaFariyal/23CSBTB29/blob/main/SVM.ipynb
