@@ -10,3 +10,4 @@ https://github.com/NehaFariyal/23CSBTB29/blob/main/Untitled0.ipynb
 https://github.com/NehaFariyal/23CSBTB29/blob/main/Assignment06.ipynb
 https://github.com/NehaFariyal/23CSBTB29/blob/main/SVM.ipynb
 https://github.com/NehaFariyal/23CSBTB29/blob/main/TREES.ipynb
+https://github.com/NehaFariyal/23CSBTB29/blob/main/README.md
